@@ -1,7 +1,10 @@
 
 # Biosciences Linux Users @ UCL
 
-This is a group for users of Linux systems in UCL Biosciences.
+This is a group for users of Linux systems in UCL Biosciences. We aim to organise regular
+(but probably not frequent) meetings at UCL. The mailing list is available:
+
+http://www.mailinglists.ucl.ac.uk/mailman/listinfo/biosciences-linux
 
 ## What this is about
 
