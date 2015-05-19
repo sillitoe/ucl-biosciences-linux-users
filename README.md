@@ -20,4 +20,8 @@ http://www.mailinglists.ucl.ac.uk/mailman/listinfo/biosciences-linux
 
 ## Meetings
 
- - Kickoff meeting: http://doodle.com/si4xkpekmcvkb5a4
+The plan is to meet up regularly (although probably not frequently). 
+
+Details on all the meetings can be found in the wiki section of this site.
+
+ - [/wiki/Meetings](https://github.com/sillitoe/ucl-biosciences-linux-users/wiki/Meetings)
