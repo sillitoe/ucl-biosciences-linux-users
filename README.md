@@ -23,4 +23,4 @@ The plan is to meet up regularly (although probably not frequently).
 
 Details on the meetings can be found below:
 
- - [/wiki/Meetings](https://github.com/sillitoe/ucl-biosciences-linux-users/wiki/Meetings)
+ - [/wiki/All-Meetings](https://github.com/sillitoe/ucl-biosciences-linux-users/wiki/All-Meetings)
