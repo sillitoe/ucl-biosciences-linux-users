@@ -20,3 +20,5 @@ http://www.mailinglists.ucl.ac.uk/mailman/listinfo/biosciences-linux
 ## Meetings
 
 The plan is to meet up regularly (although probably not frequently) - details on the meetings can be [found on the wiki](https://github.com/sillitoe/ucl-biosciences-linux-users/wiki/All-Meetings)
+
+* [Meeting 1: Introduction](Meeting-1) -- Mon 8 June, 2015 
